@@ -1,0 +1,16 @@
+# Producer (runs on host)
+kafka-python>=2.0.0
+websocket-client>=1.6.0
+
+# Data processing & ML
+pyspark>=3.5.0
+scikit-learn>=1.3.0
+pandas>=2.0.0
+joblib>=1.3.0
+
+# API
+flask>=3.0.0
+
+# Dashboard
+streamlit>=1.40,<1.50
+plotly>=5.18.0
