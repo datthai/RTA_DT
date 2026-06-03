@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Spark checkpoints (regenerated each run)
+/tmp/
+*.crc
+_spark_metadata/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
