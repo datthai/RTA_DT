@@ -2,11 +2,6 @@
 
 > Course project for **Real-Time Analytics (222891-D)** — SGH Warsaw School of Economics, Spring 2025/2026.
 
-## 🎥 Pitch Video
-
-[Watch the 3-minute demo](https://YOUR-VIDEO-LINK-HERE) ← *replace after upload*
-
----
 
 ## The Problem
 
